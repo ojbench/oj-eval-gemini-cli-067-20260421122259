@@ -3,3 +3,6 @@ CMakeCache.txt
 Makefile
 cmake_install.cmake
 code
+build/
+git_url.txt
+submission_ids.log
